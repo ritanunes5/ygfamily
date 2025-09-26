@@ -4,6 +4,7 @@ import AboutUs from "@/components/AboutUs";
 import ArtistShowcase from "@/components/ArtistShowcase";
 import NewsSection from "@/components/NewsSection";
 import Footer from "@/components/Footer";
+import CalWidget from "@/components/CalWidget";
 
 const Index = () => {
   return (
@@ -16,6 +17,7 @@ const Index = () => {
         <NewsSection />
       </main>
       <Footer />
+      <CalWidget />
     </div>
   );
 };

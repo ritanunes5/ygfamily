@@ -19,9 +19,7 @@ const HeroSection = () => {
       <div className="relative container mx-auto px-6 z-10">
         <div className="max-w-2xl">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            Where
-            <span className="block text-primary animate-glow">Music</span>
-            Comes Alive
+            <span className="block text-primary animate-glow">Vibe the New Flow</span>
           </h1>
           <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
             Discover the latest from your favorite artists, exclusive content, 
