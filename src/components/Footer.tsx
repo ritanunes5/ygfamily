@@ -24,41 +24,41 @@ const Footer = () => {
 
           {/* Artists */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-lg">Artists</h3>
+            <h3 className="font-semibold text-lg">Artistas</h3>
             <ul className="space-y-2 text-muted-foreground">
               <li className="hover:text-primary cursor-pointer transition-colors">BLACKPINK</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">BABYMONSTER</li>
               <li className="hover:text-primary cursor-pointer transition-colors">TREASURE</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">WINNER</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">AKMU</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Ver mais artistas</li>
             </ul>
           </div>
 
-          {/* Content */}
+          {/* Audições */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-lg">Content</h3>
+            <h3 className="font-semibold text-lg">Audições</h3>
             <ul className="space-y-2 text-muted-foreground">
-              <li className="hover:text-primary cursor-pointer transition-colors">Music Videos</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Behind the Scenes</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Live Performances</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Interviews</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Audições Globais</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Processo de Seleção</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Requisitos</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Como Participar</li>
             </ul>
           </div>
 
-          {/* Support */}
+          {/* Recrutamento */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-lg">Support</h3>
+            <h3 className="font-semibold text-lg">Recrutamento</h3>
             <ul className="space-y-2 text-muted-foreground">
-              <li className="hover:text-primary cursor-pointer transition-colors">Contact Us</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Help Center</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Privacy Policy</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Terms of Service</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Carreiras</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Estágios</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Oportunidades</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Candidatar-se</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm">
-            © 2024 YG Entertainment. All rights reserved.
+            © 2025 YG Entertainment. All rights reserved.
           </p>
           <p className="text-muted-foreground text-sm mt-4 md:mt-0">
             Made with ❤️ for music lovers worldwide

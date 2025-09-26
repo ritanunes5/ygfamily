@@ -18,10 +18,10 @@
     --popover: 240 4% 8%;
     --popover-foreground: 0 0% 93%;
 
-    /* YG Entertainment brand colors */
-    --primary: 333 83% 56%; /* YG Pink */
-    --primary-foreground: 0 0% 98%;
-    --primary-glow: 333 83% 76%;
+    /* YG Entertainment brand colors - Black & White theme */
+    --primary: 0 0% 98%; /* White */
+    --primary-foreground: 0 0% 8%;
+    --primary-glow: 0 0% 85%;
 
     --secondary: 240 4% 12%;
     --secondary-foreground: 0 0% 93%;
@@ -29,8 +29,8 @@
     --muted: 240 3% 15%;
     --muted-foreground: 0 0% 63%;
 
-    --accent: 333 83% 56%;
-    --accent-foreground: 0 0% 98%;
+    --accent: 0 0% 98%;
+    --accent-foreground: 0 0% 8%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 98%;
@@ -38,7 +38,7 @@
     /* Dark UI borders and inputs */
     --border: 240 3% 18%;
     --input: 240 3% 18%;
-    --ring: 333 83% 56%;
+    --ring: 0 0% 98%;
 
     --radius: 0.75rem;
 

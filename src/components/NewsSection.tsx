@@ -5,34 +5,34 @@ import { Calendar, ArrowRight } from "lucide-react";
 const newsItems = [
   {
     id: 1,
-    title: "BLACKPINK Announces World Tour 2024",
-    excerpt: "The global superstars are bringing their spectacular show to cities worldwide...",
+    title: "BLACKPINK Announces European Tour 2025",
+    excerpt: "As superstars globais confirmam datas em várias cidades europeias para o primeiro semestre...",
     category: "Tour",
-    date: "2024-01-15",
+    date: "2025-01-20",
     featured: true
   },
   {
     id: 2,
-    title: "TREASURE Drops New Music Video",
-    excerpt: "The boys are back with their latest visual masterpiece that's breaking records...",
+    title: "BABYMONSTER Lança Novo Álbum 'DRIP'",
+    excerpt: "O grupo rookie da YG surpreende com seu primeiro álbum completo que está quebrando recordes...",
     category: "Music",
-    date: "2024-01-12",
+    date: "2025-01-18",
     featured: false
   },
   {
     id: 3,
-    title: "YG Entertainment Signs New Trainee",
-    excerpt: "Meet the next generation of talent joining the YG Family...",
+    title: "YG Entertainment Anuncia Audições Globais 2025",
+    excerpt: "A empresa abre audições mundiais para descobrir os próximos talentos da YG Family...",
     category: "News",
-    date: "2024-01-10",
+    date: "2025-01-15",
     featured: false
   },
   {
     id: 4,
-    title: "WINNER Collaborates with International Artist",
-    excerpt: "An unexpected collaboration that's taking the music world by storm...",
+    title: "TREASURE Colabora com Artista Internacional",
+    excerpt: "Uma colaboração inesperada que está a conquistar o mundo da música...",
     category: "Collaboration",
-    date: "2024-01-08",
+    date: "2025-01-12",
     featured: false
   }
 ];

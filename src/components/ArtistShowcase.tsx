@@ -1,28 +1,25 @@
 import { Card, CardContent } from "@/components/ui/card";
-import artist1 from "@/assets/artist-1.jpg";
-import artist2 from "@/assets/artist-2.jpg";
-import artist3 from "@/assets/artist-3.jpg";
+import blackpinkOfficial from "@/assets/blackpink-official.jpg";
+import babymonsterOfficial from "@/assets/babymonster-official.jpg";
+import treasureOfficial from "@/assets/treasure-official.jpg";
 
 const artists = [
   {
     id: 1,
     name: "BLACKPINK",
-    genre: "K-POP",
-    image: artist1,
+    image: blackpinkOfficial,
     status: "Latest Album"
   },
   {
     id: 2,
-    name: "TREASURE",
-    genre: "K-POP",
-    image: artist2,
-    status: "New Single"
+    name: "BABYMONSTER",
+    image: babymonsterOfficial,
+    status: "Debut Album"
   },
   {
     id: 3,
-    name: "WINNER",
-    genre: "K-POP",
-    image: artist3,
+    name: "TREASURE",
+    image: treasureOfficial,
     status: "World Tour"
   }
 ];
@@ -62,14 +59,10 @@ const ArtistShowcase = () => {
                     </span>
                   </div>
 
-                  {/* Artist Info */}
                   <div className="absolute bottom-0 left-0 right-0 p-6">
                     <h3 className="text-2xl font-bold text-white mb-1">
                       {artist.name}
                     </h3>
-                    <p className="text-primary font-medium">
-                      {artist.genre}
-                    </p>
                   </div>
                 </div>
               </CardContent>
