@@ -26,14 +26,6 @@ const newsItems = [
     category: "News",
     date: "2025-01-15",
     featured: false
-  },
-  {
-    id: 4,
-    title: "TREASURE Colabora com Artista Internacional",
-    excerpt: "Uma colaboração inesperada que está a conquistar o mundo da música...",
-    category: "Collaboration",
-    date: "2025-01-12",
-    featured: false
   }
 ];
 
