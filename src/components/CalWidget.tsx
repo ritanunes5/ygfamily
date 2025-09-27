@@ -10,7 +10,7 @@ const CalWidget = () => {
   }, [])
   
   return (
-    <div className="fixed bottom-4 right-4 w-80 h-96 bg-card border border-border rounded-lg shadow-lg z-50">
+    <div className="w-full max-w-md mx-auto h-64 bg-card border border-border rounded-lg shadow-lg">
       <Cal 
         namespace="questions-and-answers"
         calLink="ritanunes/questions-and-answers"
