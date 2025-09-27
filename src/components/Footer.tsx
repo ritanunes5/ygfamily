@@ -24,34 +24,34 @@ const Footer = () => {
 
           {/* Artists */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-lg">Artistas</h3>
+            <h3 className="font-semibold text-lg">Artists</h3>
             <ul className="space-y-2 text-muted-foreground">
               <li className="hover:text-primary cursor-pointer transition-colors">BLACKPINK</li>
               <li className="hover:text-primary cursor-pointer transition-colors">BABYMONSTER</li>
               <li className="hover:text-primary cursor-pointer transition-colors">TREASURE</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Ver mais artistas</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">View all artists</li>
             </ul>
           </div>
 
-          {/* Audições */}
+          {/* Auditions */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-lg">Audições</h3>
+            <h3 className="font-semibold text-lg">Auditions</h3>
             <ul className="space-y-2 text-muted-foreground">
-              <li className="hover:text-primary cursor-pointer transition-colors">Audições Globais</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Processo de Seleção</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Requisitos</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Como Participar</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Global Auditions</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Selection Process</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Requirements</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">How to Participate</li>
             </ul>
           </div>
 
-          {/* Recrutamento */}
+          {/* Recruitment */}
           <div className="space-y-4">
-            <h3 className="font-semibold text-lg">Recrutamento</h3>
+            <h3 className="font-semibold text-lg">Recruitment</h3>
             <ul className="space-y-2 text-muted-foreground">
-              <li className="hover:text-primary cursor-pointer transition-colors">Carreiras</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Estágios</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Oportunidades</li>
-              <li className="hover:text-primary cursor-pointer transition-colors">Candidatar-se</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Careers</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Internships</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Opportunities</li>
+              <li className="hover:text-primary cursor-pointer transition-colors">Apply Now</li>
             </ul>
           </div>
         </div>

@@ -8,13 +8,13 @@ const artists = [
     id: 1,
     name: "BLACKPINK",
     image: blackpinkOfficial,
-    status: "Latest Album"
+    status: "Latest Song"
   },
   {
     id: 2,
     name: "BABYMONSTER",
     image: babymonsterOfficial,
-    status: "Debut Album"
+    status: "Mini-Album"
   },
   {
     id: 3,
