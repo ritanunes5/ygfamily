@@ -67,9 +67,9 @@ const NewsSection = () => {
             </CardHeader>
             <CardContent>
               <p className="text-muted-foreground text-lg leading-relaxed">
-                {newsItems[0].excerpt} Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-                Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad 
-                minim veniam, quis nostrud exercitation ullamco laboris.
+                {newsItems[0].excerpt} O grupo anunciou datas para vários países da Europa, 
+                incluindo França, Inglaterra, Itália e Espanha, prometendo espetáculos 
+                inesquecíveis para os fãs europeus.
               </p>
             </CardContent>
           </Card>
