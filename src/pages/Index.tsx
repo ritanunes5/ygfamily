@@ -3,6 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import AboutUs from "@/components/AboutUs";
 import ArtistShowcase from "@/components/ArtistShowcase";
 import NewsSection from "@/components/NewsSection";
+import ContactForm from "@/components/ContactForm";
 import Footer from "@/components/Footer";
 import CalWidget from "@/components/CalWidget";
 
@@ -15,6 +16,7 @@ const Index = () => {
         <AboutUs />
         <ArtistShowcase />
         <NewsSection />
+        <ContactForm />
       </main>
       
       {/* Calendar Widget Section */}
